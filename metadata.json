@@ -1,0 +1,5 @@
+{
+  "name": "MediCare",
+  "description": "A health companion application for tracking medication, managing schedule, and contacting healthcare providers with a secure login flow.",
+  "requestFramePermissions": []
+}
